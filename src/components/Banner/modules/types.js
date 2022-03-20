@@ -1,0 +1,1 @@
+export const UPDATE_BANNER = 'UPDATE_BANNER'

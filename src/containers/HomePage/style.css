@@ -1,0 +1,7 @@
+.input:focus ~ .searchBlock{
+    display: block
+}
+
+.searchBlock{
+    display: none;
+}
